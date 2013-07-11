@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Clever/clever-ruby.png)](https://travis-ci.org/Clever/clever-ruby)
 
-Ruby bindings to the Clever API.
+Ruby bindings to the [Clever API](https://getclever.com/developers/docs).
 
 ## Installation
 
